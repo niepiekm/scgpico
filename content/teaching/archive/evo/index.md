@@ -31,16 +31,16 @@ Software systems both are eternal, and are not eternal. On the one hand, the bit
 |---|---|---|
 |**Week**|**Date**|**Lesson**
 | 1| 18-Sep-08| Introduction ([handouts](%base_url%/download/evo/01-introduction.key.pdf))
-| 2| 25-Sep-08| Reverse Engineering (<a /download/evo/02-reverseengineering.key.pdf">handouts</a>)
+| 2| 25-Sep-08| Reverse Engineering ([handouts](%base_url%/download/evo/02-reverseengineering.key.pdf))
 | 3| 02-Oct-08| Lab &mdash; Understanding legacy software
 | 4| 09-Oct-08| Presentation of Results (all groups)
-| 5| 16-Oct-08| Metrics and Problem Detection (<a /download/evo/05-problem-detection.key.pdf">handouts</a>)
-| 6| 23-Oct-08| Software Visualization (<a /download/evo/06-softwarevisualization.key.pdf">handouts</a>)
-| 7| 30-Oct-08| The Anatomy of Analysis Tools (<a /download/evo/07-anatomyofanalysistools.key.pdf">handouts</a>)
-| 8| 06-Nov-08| History Analysis (<a /download/evo/08-historyanalysis.key.pdf">handouts</a>)
-| 9| 13-Nov-08| Dynamic Analysis (<a /download/evo/09-dynamicanalysis.key.pdf">handouts</a>)
-| 10| 20-Nov-08| Software Understanding in the Large (<a /download/evo/10-software-understanding-in-the-large.key.pdf">handouts</a>)
-| 11| 27-Nov-08| Restructuring (<a /download/evo/11-restructuring.key.pdf">handouts</a>)
-| 12| 04-Dec-08| Testing and Migration (<a /download/evo/12-testing-and-migration.key.pdf">handouts</a>)
+| 5| 16-Oct-08| Metrics and Problem Detection ([handouts](%base_url%/download/evo/05-problem-detection.key.pdf))
+| 6| 23-Oct-08| Software Visualization ([handouts](%base_url%/download/evo/06-softwarevisualization.key.pdf))
+| 7| 30-Oct-08| The Anatomy of Analysis Tools ([handouts](%base_url%/download/evo/07-anatomyofanalysistools.key.pdf))
+| 8| 06-Nov-08| History Analysis ([handouts](%base_url%/download/evo/08-historyanalysis.key.pdf))
+| 9| 13-Nov-08| Dynamic Analysis ([handouts](%base_url%/download/evo/09-dynamicanalysis.key.pdf))
+| 10| 20-Nov-08| Software Understanding in the Large ([handouts](%base_url%/download/evo/10-software-understanding-in-the-large.key.pdf))
+| 11| 27-Nov-08| Restructuring ([handouts](%base_url%/download/evo/11-restructuring.key.pdf))
+| 12| 04-Dec-08| Testing and Migration ([handouts](%base_url%/download/evo/12-testing-and-migration.key.pdf))
 | 13| 11-Dec-08| Conway, Migration and Politics
 | 14| 18-Dec-08| Final Exam
